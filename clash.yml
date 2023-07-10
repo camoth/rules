@@ -1,8 +1,8 @@
 # 混合模式
 mixin:
   rules:
-    - "DOMAIN,chat.openai.com.cdn.cloudflare.net,proxy"
-    - "DOMAIN,openaiapi-site.azureedge.net,proxy"
-    - "DOMAIN-SUFFIX,openai.com,proxy"
-    - "DOMAIN-SUFFIX,stripe.com,proxy"
-    - "DOMAIN-SUFFIX,ai.com,proxy"
+    - "DOMAIN,chat.openai.com.cdn.cloudflare.net,Proxy"
+    - "DOMAIN,openaiapi-site.azureedge.net,Proxy"
+    - "DOMAIN-SUFFIX,openai.com,Proxy"
+    - "DOMAIN-SUFFIX,stripe.com,Proxy"
+    - "DOMAIN-SUFFIX,ai.com,Proxy"
